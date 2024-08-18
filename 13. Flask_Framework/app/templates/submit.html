@@ -1,0 +1,23 @@
+<!-- here we will handel the submit -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>submit</title>
+</head>
+    <h1>Submit Page</h1>
+    <h2>Thank you for submitting the form</h2>
+    <h3>Here is the data you submitted:</h3>
+    <!-- here we will check if the name is string and the age is int if it is we will return them if not we will return an error message-->
+    {% if name.isalpha() and age.isdigit() %}
+        <p>Name: {{ name }}</p>
+        <p>Age: {{ age }}</p>
+    {% else %}
+        <p>Invalid input</p>
+    {% endif %}
+<body>
+    
+</body>
+</html>
