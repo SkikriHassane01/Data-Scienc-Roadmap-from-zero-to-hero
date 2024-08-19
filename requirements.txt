@@ -4,4 +4,5 @@ pandas
 matplotlib
 seaborn
 flask
-Streamlit
+streamlit
+scikit-learn
