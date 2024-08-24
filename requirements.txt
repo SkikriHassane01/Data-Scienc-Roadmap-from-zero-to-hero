@@ -6,3 +6,10 @@ seaborn
 flask
 streamlit
 scikit-learn
+jupyter_to_medium
+missingno
+mlxtend
+shap # for feature importance
+lime # for feature importance
+imblearn # for imbalanced data
+openpyxl # for reading excel files
