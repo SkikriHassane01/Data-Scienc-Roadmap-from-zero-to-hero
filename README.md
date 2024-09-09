@@ -1,13 +1,12 @@
 # day by day to be a Data Scientist
 
-![](./images/DataScience.png)
-
-# roadmap
-
-![](./images/Learning-Roadmap.png)
 
 
-First check this article on medium it will provide you will a lot of information: [here](https://medium.com/@Hassane_01/data-science-roadmap-93d1f1447d5f)
+![DataScience](https://github.com/user-attachments/assets/f1baf0a9-1a8e-4978-b3ec-93d4044419c8)
+
+
+![Learning-Roadmap](https://github.com/user-attachments/assets/8f826cc8-4373-4d10-bc1f-ce94d2be1200)
+
 
 ## DAY 1 :
 
