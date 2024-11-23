@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.png
+*.jpg
 .venvRoadmap/
 # Distribution / packaging
 .Python
@@ -161,3 +162,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+1.1 1-2 Simple RNN.pdf
+41. Converting text to vector/word2vec.model
+43. Perceptron/Untitled design.png
+45. Activation Functions/1.jpg
+45. Activation Functions/3.png
+45. Activation Functions/2.png
