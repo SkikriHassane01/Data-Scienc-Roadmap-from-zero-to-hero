@@ -1,0 +1,1 @@
+# [Attension mecanism](https://www.geeksforgeeks.org/ml-attention-mechanism/)
