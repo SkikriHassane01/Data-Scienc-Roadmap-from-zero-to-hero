@@ -4,8 +4,7 @@
 
 ![DataScience](https://github.com/user-attachments/assets/f1baf0a9-1a8e-4978-b3ec-93d4044419c8)
 
-
-![Learning-Roadmap](https://github.com/user-attachments/assets/8f826cc8-4373-4d10-bc1f-ce94d2be1200)
+![Data Science](https://github.com/user-attachments/assets/8e89a8ab-10e7-450b-9a5d-83d4e246c12f)
 
 
 ## DAY 1 :
